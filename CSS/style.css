@@ -1,0 +1,12 @@
+:root {
+  --primary-color: #e5edc4;
+  --secondary-color: #934662;
+}
+body {
+  background-color: var(--primary-color);
+}
+
+a {
+  color: var(--secondary-color);
+  font-weight: bold;
+}
